@@ -52,14 +52,14 @@ header .navbar{
   border: 1.5px solid black;
 }
 #main-content{
-  font-weight: bold;  
+	font-weight: bold;	
 }
 #menu-chicken , #menu-beef , #menu-sushi{
-  background-color: grey;
-  height: 1500px;
-  border-radius: 15px;
-  margin-bottom: 45px;
-  clear: both;
+	background-color: grey;
+	height: 1500px;
+	border-radius: 15px;
+	margin-bottom: 45px;
+	clear: both;
 }
 h2{
   margin-top:15px;
@@ -67,10 +67,10 @@ h2{
   overflow:auto;
 }
 h3{
-  padding-top: 20px;
+	padding-top: 20px;
 }
 p{
-  padding: 20px;
+	padding: 20px;
 
 }
 /* end of header */
